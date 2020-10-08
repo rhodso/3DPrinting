@@ -1,0 +1,8 @@
+1x gearsLeft
+1x gearsRight
+4x grippart
+1x gripperServoplate
+1x Liftgears
+1x Liftparrallelbar
+4x parrallelbar
+1x ServoConnector
